@@ -5,7 +5,7 @@
    Pour un lien encore inconnu : url: '' (le lien sera désactivé explicitement).
    Les chemins d’images sont relatifs au fichier index.html. */
 const portfolio = {
-  name: 'Thibault Séné',
+  name: 'Thibault Sene',
   firstName: 'Thibault.',
   email: 'thibaultsene4@gmail.com',
   instagram: 'https://www.instagram.com/thibaultsene/',

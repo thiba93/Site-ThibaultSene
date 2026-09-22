@@ -1,4 +1,4 @@
-# Thibault Séné — Portfolio
+# Thibault Sene — Portfolio
 
 Une sélection de neuf sites, en HTML, CSS et JavaScript natifs. Ouvrir `index.html` par double-clic : aucune installation, aucun build, aucune clé API.
 
@@ -91,7 +91,7 @@ Modifier l’objet **`portfolio`** au début de `script.js` :
 
 ```javascript
 const portfolio = {
-  name: 'Thibault Séné',
+  name: 'Thibault Sene',
   firstName: 'Thibault.',
   email: 'thibaultsene4@gmail.com',
   instagram: 'https://www.instagram.com/thibaultsene/',
